@@ -13,7 +13,7 @@ Sign up for Windows Trial and Download the ISO here:
 Create Virtual Machines
 https://youtube.com/shorts/-ksF-eB7okk
   Find the Commands Here:
-  [Github]("https://github.com/jhamesCBT/ChillVibezTechLabs/blob/main/NetworkLab Environment Commands")
+  [Github](https://github.com/jhamesCBT/ChillVibezTechLabs/blob/main/NetworkLabEnvironmentCommands)
 
 For each lab Virtual Machine follow the Windows installation guide here:
 https://youtube.com/shorts/mRFlOS7TIfg
