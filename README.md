@@ -1,8 +1,10 @@
 
 
 # Get Started
-0. Order Lab here:
-https://chillvibeztech.com/
+Order Lab here:
+[link text](https://example.com)
+[https://Chillvibeztech.com]((https://chillvibeztech.com/)
+
 
 1. Sign up for Windows Trial and Download the ISO here:
 https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us
@@ -10,12 +12,13 @@ https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-
 
 # Setup the Lab Environment
 Create Virtual Machines
-1. https://youtube.com/shorts/-ksF-eB7okk
+https://youtube.com/shorts/-ksF-eB7okk
 
-3. For each lab VM, follow the Windows installation guide here:
+For each lab Virtual Machine follow the Windows installation guide here:
 https://youtube.com/shorts/mRFlOS7TIfg
 
-4. Follow the steps in the content video here:
+# Build the Lab
+Follow the steps in the content video here:
 https://youtu.be/dukyOlMFK0E
 
 
