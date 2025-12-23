@@ -1,6 +1,6 @@
 
 
-#Get Started
+# Get Started
 0. Order Lab here:
 https://chillvibeztech.com/
 
