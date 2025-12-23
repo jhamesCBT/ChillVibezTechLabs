@@ -1,8 +1,12 @@
+
+
+#Get Started
 0. Order Lab here:
 https://chillvibeztech.com/
 
 1. Sign up for Windows Trial and Download the ISO here:
 https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us
+
 
 2. Setup the Lab Environment
 https://youtube.com/shorts/-ksF-eB7okk
