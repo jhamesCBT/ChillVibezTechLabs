@@ -8,8 +8,9 @@ https://chillvibeztech.com/
 https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us
 
 
-2. Setup the Lab Environment
-https://youtube.com/shorts/-ksF-eB7okk
+# Setup the Lab Environment
+Create Virtual Machines
+1. https://youtube.com/shorts/-ksF-eB7okk
 
 3. For each lab VM, follow the Windows installation guide here:
 https://youtube.com/shorts/mRFlOS7TIfg
