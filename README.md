@@ -2,12 +2,11 @@
 
 # Get Started
 Order Lab here:
-[link text](https://example.com)
 [https://Chillvibeztech.com](https://chillvibeztech.com/)
 
 
 1. Sign up for Windows Trial and Download the ISO here:
-https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us
+[https://Chillvibeztech.com]([https://chillvibeztech.com/](https://info.microsoft.com/ww-landing-evaluate-windows-server-2025.html?lcid=en-us&culture=en-us&country=us))
 
 
 # Setup the Lab Environment
