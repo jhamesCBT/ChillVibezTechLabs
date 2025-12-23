@@ -12,6 +12,7 @@ Sign up for Windows Trial and Download the ISO here:
 # Setup the Lab Environment
 Create Virtual Machines
 https://youtube.com/shorts/-ksF-eB7okk
+  Find the Commands Here: NetworkLab Environment Commands
 
 For each lab Virtual Machine follow the Windows installation guide here:
 https://youtube.com/shorts/mRFlOS7TIfg
