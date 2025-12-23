@@ -3,7 +3,7 @@
 # Get Started
 Order Lab here:
 [link text](https://example.com)
-[https://Chillvibeztech.com]((https://chillvibeztech.com/)
+[https://Chillvibeztech.com](https://chillvibeztech.com/)
 
 
 1. Sign up for Windows Trial and Download the ISO here:
