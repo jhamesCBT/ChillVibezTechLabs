@@ -12,7 +12,7 @@ Sign up for Windows Trial and Download the ISO here:
 # Setup the Lab Environment
 Create Virtual Machines
 https://youtube.com/shorts/-ksF-eB7okk
-  Find the Commands Here:
+ ### Find the Commands Here:
   [Setup Commands](https://github.com/jhamesCBT/ChillVibezTechLabs/blob/main/NetworkLabEnvironmentCommands)
 
 For each lab Virtual Machine follow the Windows installation guide here:
